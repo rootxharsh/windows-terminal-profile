@@ -45,3 +45,9 @@
                 "startingDirectory" : "//wsl$/Ubuntu-20.04/home/harsh"
             }
 ```
+
+At the end of your `.bashrc`
+
+```bash
+export LS_COLORS="$LS_COLORS:ow=1;34:tw=1;34:"
+```
